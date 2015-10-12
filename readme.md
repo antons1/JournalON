@@ -7,7 +7,7 @@ function toRemind(me) {
 };
 '''
 Of how | It works
------------------
+-------|---------
 Like | this
 i | guess
 
