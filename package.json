@@ -1,0 +1,25 @@
+{
+  "name": "journalon",
+  "version": "0.0.0",
+  "description": "*I just need to remember* how to write MD\r ~~So i put this here~~\r ```javascript\r function toRemind(me) {\r };\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antons1/JournalON.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antons1/JournalON/issues"
+  },
+  "homepage": "https://github.com/antons1/JournalON#readme",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "react": "^0.14.0",
+    "reflux": "^0.3.0",
+    "webpack": "^1.12.2"
+  }
+}
